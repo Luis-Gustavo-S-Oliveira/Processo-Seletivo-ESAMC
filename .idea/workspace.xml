@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73a08285-4312-48e9-8e1a-ae1dce46fe99" name="Changes" comment="commit exercicio1 complet">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="73a08285-4312-48e9-8e1a-ae1dce46fe99" name="Changes" comment="commit exercicio2 and 3 complet">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Luis-Gustavo-S-Oliveira"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Luis-Gustavo-S-Oliveira&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Luis-Gustavo-S-Oliveira/Processo-Seletivo-ESAMC.git",
-    "accountId": "4b4d52a2-6831-476b-9bb9-95091beae02d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Luis-Gustavo-S-Oliveira/Processo-Seletivo-ESAMC.git&quot;,
+    &quot;accountId&quot;: &quot;4b4d52a2-6831-476b-9bb9-95091beae02d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="35LZHkzkSydu6fakebJVQ2Lakgu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,8 +49,8 @@
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "G:/Dio.java/Processo-Seletivo-Esamc/src/Main.java"
   }
@@ -131,12 +128,29 @@
       <option name="project" value="LOCAL" />
       <updated>1762892170410</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit exercicio2 and 3 complet">
+      <option name="closed" value="true" />
+      <created>1762898177693</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762898177693</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit exercicio2 and 3 complet">
+      <option name="closed" value="true" />
+      <created>1762898233099</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762898233099</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="commit exercicio1 complet" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit exercicio1 complet" />
+    <MESSAGE value="commit exercicio2 and 3 complet" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit exercicio2 and 3 complet" />
   </component>
 </project>

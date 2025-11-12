@@ -1,0 +1,3 @@
+SELECT f.nome, f.idade, f.tempodecasa, c.cargos
+FROM funcionario AS f
+JOIN cargo c ON f.idCargo = c.idCargo
